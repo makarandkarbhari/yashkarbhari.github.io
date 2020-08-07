@@ -1,7 +1,7 @@
 # Site settings
 title: Yash Karbhari
 email: yashkarbhari17@gmail.com
-description: Hi, welcome to my site.
+description: Information Technology Undergraduate at SPPU
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -11,16 +11,17 @@ tiles-count: 3
 featured-image-source:
 
 # Social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+#500px_url:
+#facebook_url:
+github_url: https://github.com/yashkarbhari
+#gitlab_url: https://gitlab.com/u/andrewbanchich
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+#instagram_url:
+linkedin_url: https://www.linkedin.com/in/yash-karbhari-86036a1a1/
+#pinterest_url:
+#slack_url:
+email_url: yashkarbhari17@gmail.com
+#twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
