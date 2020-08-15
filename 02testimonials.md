@@ -1,5 +1,9 @@
 ---
 layout: page
-title: Teaching
-description: Teaching experience, syllabus and evaluations
+title: Testimonials
+description: Testimonials about my qualities
 ---
+
+<section>
+  <p>There are no testimonials till now.</p>
+</section>
