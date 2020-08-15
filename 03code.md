@@ -6,7 +6,7 @@ description: Scripts, software and material for replication
 
 <section>
   
-1) Word Segmentation using OpenCV
+1) Word Segmentation using TensorFlow
 
 <div class="box alt">
 	<div class="row uniform 100%">
