@@ -5,5 +5,6 @@ description: A collection of non-academic and academic links that you may find i
 ---
 
 <section>
-  <p>Soon will add some links here.</p>
+  <h3><a href="https://www.youtube.com/lexfridman">Lex Fridman Podcast</a></h3>
+  <p>I listen to Lex Fridman's Arificial Intelligence podcast very oftenly, I eagerly wait for his new podcasts, because they are so informative. I would like to suggest you to listen to his podcasts.</p>
   </section>
