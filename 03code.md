@@ -18,7 +18,5 @@ description: Scripts, software and material for replication
 <p class="icon fa-star"> <a href="https://github.com/yashkarbhari/Word-Segmentation-using-OpenCV">Link</a></p>
 	</div>
 	
-	
-<h3>The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)</h3>
-<p>Currently working on this project.......</p>
+
 </section>
