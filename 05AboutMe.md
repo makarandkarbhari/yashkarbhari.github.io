@@ -14,7 +14,8 @@ description: Here, you can my find about my interested topics
   
   <section class = "spotlight">
   <div class="content">
-    <h2>My thoughts on Cognitive Science</h2>
+          <h2>My thoughts on Cognitive Science</h2>
 	  <p>Will add here soon....</p>
+	</div>
   </section>
 	</section>
