@@ -8,7 +8,7 @@ description: Scripts, software and material for replication
 <section class="spotlight">
 		<div class="image"><img src="/assets/images/captcha.png" alt="" /></div>
 		<div class="content">
-			<h2>Word Segmentation usinf Tensorflow and OpenCV</h2>
+			<h2>Word Segmentation using Tensorflow and OpenCV</h2>
 
 <p class = "icon fa-circle"> The dataset was taken from a Kaggle competition, and has had around 1000 reCAPTCHA images to train on. I have used two different approaches to solve this problem:
 	
