@@ -6,8 +6,7 @@ description: Scripts, software and material for replication
 
 <section>
 <section class="spotlight">
-	        <div class="image"><img src="/assets/images/captcha.png" alt="" align="top"/></div>
-	        <div class="image"><img src="/assets/images/captcha2.png" alt="" align="bottom"/></div>
+	        <div class="image"><img src="/assets/images/captcha2.png" alt="" /></div>
 		<div class="content">
 			<header class="major">
 			<h2 align="center">Word Segmentation using Tensorflow and OpenCV</h2>
