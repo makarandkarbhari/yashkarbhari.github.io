@@ -22,6 +22,9 @@ description: Scripts, software and material for replication
 <div class="4u">
 	<span class="image fit"><img src="assets/images/captcha.png" alt="" /></span>
 	</div>
+	<div class="4u">
+	<span class="image fit"><img src="assets/images/captcha_2.png" alt="" /></span>
+	</div>
 	</div>
 	</div>
 </section>
