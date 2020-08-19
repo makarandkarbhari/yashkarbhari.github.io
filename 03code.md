@@ -6,7 +6,6 @@ description: Scripts, software and material for replication
 
 <section>
 <section class="spotlight">
-		<div class="image"><img src="/assets/images/captcha.png" alt="" /></div>
 	        <div class="image"><img src="/assets/images/captcha2.png" alt="" /></div>
 		<div class="content">
 			<header class="major">
