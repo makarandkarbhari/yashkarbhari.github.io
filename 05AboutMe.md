@@ -8,7 +8,7 @@ description: Here, you can my find about my interested topics
   <section class="spotlight">
 		<div class="content">
 			<header class="major">
-			<h2 align="center">>Why I love Deep Learning</h2>
+			<h2 align="center">Why I love Deep Learning</h2>
 			</header>
 			<p> Will add here soon....</p>
 		</div>
